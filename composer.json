@@ -1,0 +1,14 @@
+{
+    "name": "SimonPadbury/bst",
+    "description": "A Bootstrap 3 Starter Theme, for WordPress.",
+    "type": "wordpress-theme",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Simon Padbury",
+            "homepage": "http://simonpadbury.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
